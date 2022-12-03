@@ -2,3 +2,7 @@
     overline-position: 39;
     centerline: 45;
 }
+@desktop {
+    clip-rule: evenodd;
+
+}
